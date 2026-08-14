@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.env
+results/
+*.sqlite
+.mem0_cache/
